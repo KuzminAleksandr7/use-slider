@@ -88,6 +88,7 @@ li {
 /* Mobile menu */
 #mobile-menu{
     position: relative;
+    z-index: 999;
     width: 30px;
     height: 30px;
     cursor: pointer;
